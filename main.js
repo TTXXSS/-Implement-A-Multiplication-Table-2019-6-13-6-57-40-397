@@ -24,5 +24,7 @@ function createMultiplyTable (start,end,isStartLessThanEnd,isOutOfRange){
         return multiplyTable;
     }
     return null;
+  
+  
 }
-module.exports = {isStartLessThanEnd,isOutOfRange,createMultiplyTable};
+module.exports = {isStartLessThanEnd,isOutOfRange,createMultiplyTable}
